@@ -43,6 +43,7 @@ body{
 }
 .features{
     margin-top: 3rem;
+    margin-bottom: 3rem;
     display: grid;
     /*grid-template-columns: repeat(3, 1fr);*/
     grid-gap: 2rem;
